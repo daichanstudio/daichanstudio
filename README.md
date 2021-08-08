@@ -4,11 +4,6 @@
   <a href="https://github.com/daichanstudio/daichanstudio/">
     <img src="https://komarev.com/ghpvc/?username=daichanstudio" alt="daichanstudio" />
   </a>
-
-  <a href="https://github.com/daichanstudio">
-    <img height="20" src="https://img.shields.io/github/followers/daichanstudio?label=follow&logo=github&style=flat" />
-  </a>
-
 </p>
  
 <h2 align="center"> A passionate frontend developer from Tokyo</h3>
